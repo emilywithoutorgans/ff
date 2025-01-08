@@ -1,0 +1,5 @@
+function abc(): i32 1
+
+export function cde(): i32 2
+
+export abc
